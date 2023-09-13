@@ -11,8 +11,8 @@ Client Features
 ![image4](https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/768b42d2-c5e8-4f39-ad96-d498f19c2092)
 
 - Set size of each package
-      ~ Power of 2
-      ~ Just a natural number
+      - Power of 2
+      - Just a natural number
 - Set seconds to wait in case of time out
 - Port to connect
 - Option to continue or not in case of time out

@@ -1,4 +1,3 @@
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 # TFTP
 TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5.
@@ -35,4 +34,12 @@ TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5
 - Change directory
 
 ![image2](https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/87e5b1a1-c683-466f-af53-d04ce057e181)
+
+
+## **Quick Demonstration**
+
+https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/55c258de-6413-4602-9f02-e18c040246d6
+
+
+
 

@@ -1,7 +1,7 @@
 # TFTP
 TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5.
 
-Client Features
+## **Client Features**
 
 - Choose server IP address
 - Choose between doing a GET (download) or PUT (upload)
@@ -19,6 +19,9 @@ Client Features
 
 ![image3](https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/6e933155-5a96-46cf-9fd8-a5e9deb18569)
 
+
+
+## **Serever Features**
 
 - Set server IP address
 - Set port

@@ -22,7 +22,6 @@ TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5
 ![image3](https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/6e933155-5a96-46cf-9fd8-a5e9deb18569)
 <br></br>
 <br></br>
-<br></br>
 ## **Serever Features**
 <br></br>
 - Set server **IP** address
@@ -33,7 +32,7 @@ TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5
 <br></br>
 - Change error message texts
 - Change directory
-<br>
+<br></br>
 ![image2](https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/87e5b1a1-c683-466f-af53-d04ce057e181)
 <br></br>
 <br></br>

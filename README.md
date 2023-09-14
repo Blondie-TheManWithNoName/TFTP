@@ -37,8 +37,10 @@ TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5
 <br></br>
 <br></br>
 ## **Quick Demonstration**
-<br></br>
-https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/55c258de-6413-4602-9f02-e18c040246d6
+
+https://github.com/Blondie-TheManWithNoName/TFTP/assets/58909117/01836cc8-60f8-40fb-ad8e-16b40c5221f3
+
+
 
 
 

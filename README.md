@@ -16,7 +16,9 @@ You can use this TFTP locally on your on network _(127.0.0.1)_ or with other net
 
 # Releases
 You can downloas the releases here for windows:
+<br></br>
 [Client](https://github.com/Blondie-TheManWithNoName/TFTP/releases/download/TFTP/TFTP_CLIENT-0.1-win32.msi)
+<br></br>
 [Server](https://github.com/Blondie-TheManWithNoName/TFTP/releases/download/TFTP/TFTP_SERVER-0.1-win32.msi)
 
 

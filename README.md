@@ -9,6 +9,8 @@ TFTP is a protocol used to transfer files from a Client to a Server, this is a s
 In this TFTP I have used the RFC standards to implement several features of it. Every time a RRQ or WRQ packet is sent together the Client options are sent.  The server responds with an OACK, which has the operation code 6, so we confirm the client's request and start sending DATA and ACKs.
 
 I have also implemented the time out of the Stop & Wait protocol, every time a packet has to be received there is a waiting time called time out that is waited until a message is received, if the time limit is reached it is tried again from the beginning, either sending the ACK or the DATA depending on the situation. You are able to change the time out on the Client Interface depending on the situation.
+
+You can use this TFTP locally on your on network (127.0.0.1) or with other networks with the corresponding IP and with the port 69 open on the network the Server is gonna be used.
 <br></br>
 <br></br>
 ## **Client Features**

@@ -1,7 +1,9 @@
 
 # TFTP
 TFTP Server and Client implemented with Python 3.5 and a designed GUI with PyQt5.
+<br></br>
 
+# Idea
 TFTP is a protocol used to transfer files from a Client to a Server, this is a simple protocol and is not used to make complex transfers.
 
 In this TFTP I have used the RFC standards to implement several features of it. Every time a RRQ or WRQ packet is sent together the Client options are sent.  The server responds with an OACK, which has the operation code 6, so we confirm the client's request and start sending DATA and ACKs.

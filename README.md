@@ -13,6 +13,13 @@ I have also implemented the time out of the Stop & Wait protocol, every time a p
 You can use this TFTP locally on your on network _(127.0.0.1)_ or with other networks with the corresponding IP and with the port _69_ open on the network the Server is gonna be used.
 <br></br>
 <br></br>
+
+# Releases
+You can downloas the releases here for windows:
+[Client](https://github.com/Blondie-TheManWithNoName/TFTP/releases/download/TFTP/TFTP_CLIENT-0.1-win32.msi)
+[Server](https://github.com/Blondie-TheManWithNoName/TFTP/releases/download/TFTP/TFTP_SERVER-0.1-win32.msi)
+
+
 ## **Client Features**
 <br></br>
 - Choose server **IP** address
